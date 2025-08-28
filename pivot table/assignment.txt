@@ -1,0 +1,2 @@
+take final version of movies and financials tables comined from powerr query and create pivot table
+
